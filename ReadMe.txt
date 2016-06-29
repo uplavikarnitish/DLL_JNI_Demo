@@ -45,4 +45,7 @@ Other notes:
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
+#1 Use the right 32 or 64 bit environment for compiling the DLL. This environment
+should be the same that you will use for the JVM/JDK.
+
 /////////////////////////////////////////////////////////////////////////////
